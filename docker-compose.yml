@@ -1,0 +1,6 @@
+name: vikapp
+services:
+  vikapp:
+    build: .
+    ports:
+      - "8000:80"

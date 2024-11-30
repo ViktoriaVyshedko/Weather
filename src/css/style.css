@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48.41px;
+    text-align: left;
+}
+
+div {
+    width: 617px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+p {
+    display: inline;
+}
+
+input {
+    display: inline;
+    width: 405px;
+    height: 49px;
+}
+
+button {
+    display: inline;
+}
